@@ -2,5 +2,10 @@ from selenium import webdriver
 
 
 class SeleniumUtil:
-    pass
-#dadasdasdasdasasd
+
+    def __init__(self, name):
+        self.name = name
+
+
+    def open():
+        pass
